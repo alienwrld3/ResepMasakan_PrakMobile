@@ -1,3 +1,3 @@
-# resep_masakan
+# Aplikasi Resep Makanan
 
-A new Flutter project.
+User tidak perlu buku resep fisik yang mudah rusak dan tidak fleksibel
